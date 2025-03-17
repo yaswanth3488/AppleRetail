@@ -1,17 +1,25 @@
 
-# ![Apple Logo](https://github.com/yaswanth3488/AppleRetail/blob/main/Apple_Image.jpg) Apple Retail Sales Analysis SQL Project - Analyzing Million Rows Data
+# ![Apple Logo](https://github.com/yaswanth3488/AppleRetail/blob/main/Apple_Image.jpg) Apple Retail Sales Analysis SQL Project - Analyzing Million Row Data
+
+
 
 
 
 ## Project Overview
 
-In this project, I learned advanced SQL querying techniques by analyzing over 1 million rows of Apple retail sales data. The dataset included information about products, stores, sales transactions, and warranty claims across various Apple retail locations globally. By tackling a variety of questions, from basic to complex, I demonstrated my ability to write sophisticated SQL queries that extracted valuable insights from large datasets.
+Developed advanced SQL querying techniques by analyzing 1+ million rows of Apple retail sales data.
+Utilized a comprehensive dataset containing information on products, stores, sales transactions, and warranty claims across global Apple retail locations.
+Demonstrated proficiency in crafting sophisticated SQL queries to extract valuable insights from large datasets by addressing a range of questions from basic to complex.
+
 
 This project was ideal for me as a data analyst looking to enhance my SQL skills by working with a large-scale dataset and solving real-world business questions.
+
+
 
 ## Entity Relationship Diagram (ERD)
 
 ![ERD](https://github.com/yaswanth3488/AppleRetail/blob/main/ERD.png)
+
 
 
 ## Database Schema
@@ -52,7 +60,9 @@ The project uses five main tables:
 
 
 
-### Solved Business Problems
+###                                                                 Business Problems
+
+
 
 1. Find the number of stores in each country.
 2. Calculate the total number of units sold by each store.
@@ -71,6 +81,7 @@ The project uses five main tables:
 15. Identify the least selling product in each country for each year based on total units sold.
 
 
+
 ## Project Focus
 
 This project primarily focuses on developing and showcasing the following SQL skills:
@@ -81,11 +92,14 @@ This project primarily focuses on developing and showcasing the following SQL sk
 - **Real-World Problem Solving**: Answering business-related questions that reflect real-world scenarios faced by data analysts.
 
 
+
 ## Dataset
 
 - **Size**: 1 million+ rows of sales data.
 - **Period Covered**: The data spans multiple years, allowing for long-term trend analysis.
 - **Geographical Coverage**: Sales data from Apple stores across various countries.
+
+
 
 ## Conclusion
 
