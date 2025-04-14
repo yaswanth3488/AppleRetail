@@ -14,7 +14,7 @@ Demonstrated proficiency in crafting sophisticated SQL queries to extract valuab
 
 This project was ideal for me as a data analyst looking to enhance my SQL skills by working with a large-scale dataset and solving real-world business questions.
 
-
+#[DOCUMENT LINK](https://github.com/yaswanth3488/AppleRetail/blob/main/PDF-VIEW-APPLE%20RETAIL.pdf) 
 
 ## Entity Relationship Diagram (ERD)
 
@@ -107,3 +107,4 @@ By completing this project, I developed advanced SQL querying skills, improved m
 
 
 ---
+#[CONNECT WITH ME](https://www.linkedin.com/in/yaswanth3488/)
