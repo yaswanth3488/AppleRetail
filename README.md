@@ -1,5 +1,5 @@
-
-# ![Apple Logo](https://github.com/yaswanth3488/AppleRetail/blob/main/Apple_Image.jpg) Apple Retail Sales Analysis SQL Project - Analyzing Million Row Data
+# Apple Retail Sales Analysis - Analyzing 1 Million Row Data
+# ![Apple Logo](https://github.com/yaswanth3488/AppleRetail/blob/main/Apple_Image.jpg)
 
 
 
